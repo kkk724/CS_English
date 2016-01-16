@@ -1,0 +1,22 @@
+{
+  "name": "cs_english",
+  "version": "1.0.0",
+  "description": "Hello everyone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkk724/CS_English.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkk724/CS_English/issues"
+  },
+  "homepage": "https://github.com/kkk724/CS_English#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
